@@ -21,7 +21,7 @@ public class Ejemplo02 {
         int limite;
         int contador = 1;
         System.out.println("Ingrese el Límite");
-        limite = entrada.nextInt(); 
+        limite = entrada.nextInt(); // 6
         while (contador <= limite){
             
             if (contador%2!=0) {
@@ -34,3 +34,8 @@ public class Ejemplo02 {
         
     }
 }
+/*
+al ejecutar nos pide un limite, y el contador es 1 si pongo 6 entonces contador
+es menor a limite por lo tanto se pasa a la siguiente linea de codigo y se 
+muestra en pantalla contador 1, contador 2 hasta que se llegue al limite
+*/
