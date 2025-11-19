@@ -37,5 +37,6 @@ public class Ejemplo02 {
 /*
 al ejecutar nos pide un limite, y el contador es 1 si pongo 6 entonces contador
 es menor a limite por lo tanto se pasa a la siguiente linea de codigo y se 
-muestra en pantalla contador 1, contador 2 hasta que se llegue al limite
+muestra en pantalla contador 1, contador 3 hasta que se llegue al limite pero 
+se muestran numeros primos es decir impares
 */
