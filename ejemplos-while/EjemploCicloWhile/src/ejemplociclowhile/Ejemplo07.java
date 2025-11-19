@@ -47,6 +47,11 @@ public class Ejemplo07 {
 
         promedio_final = suma_total / contador;
         System.out.printf("El promedio final es %.2f\n", promedio_final);
-
+        
     }
 }
+/*
+usa el contador para calcular el promedio notas de la materia, para saber 
+cuantas veces ingrese 
+y añade una instruccion dada por el usuario para añadir ese promedio final
+*/
